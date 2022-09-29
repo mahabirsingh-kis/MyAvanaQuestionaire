@@ -1,0 +1,138 @@
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.deps.json
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.runtimeconfig.json
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.runtimeconfig.dev.json
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.dll
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.csprojAssemblyReference.cache
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.csproj.CoreCompileInputs.cache
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.RazorAssemblyInfo.cache
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.RazorAssemblyInfo.cs
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.AssemblyInfoInputs.cache
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.AssemblyInfo.cs
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.TagHelpers.input.cache
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.TagHelpers.output.cache
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.RazorCoreGenerate.cache
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.RazorTargetAssemblyInfo.cache
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.RazorTargetAssemblyInfo.cs
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.pdb
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.Views.dll
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.Views.pdb
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.Views.pdb
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.dll
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.pdb
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.csproj.CopyComplete
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Questionaire\Questionaire.g.cshtml.cs
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Questionaire\start.g.cshtml.cs
+D:\MyAvana\MyAvanaQuestionaire\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Questionaire\Login.g.cshtml.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\appsettings.json
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.deps.json
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.runtimeconfig.json
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.runtimeconfig.dev.json
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.dll
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.pdb
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.Views.dll
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.Views.pdb
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaireApiClient.dll
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaireModel.dll
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaireApiClient.pdb
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaireModel.pdb
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.csproj.AssemblyReference.cache
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.AssemblyInfoInputs.cache
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.AssemblyInfo.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.csproj.CoreCompileInputs.cache
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.RazorAssemblyInfo.cache
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.RazorAssemblyInfo.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.TagHelpers.input.cache
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.TagHelpers.output.cache
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.RazorCoreGenerate.cache
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Auth\ForgotPassword.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Auth\Login.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Auth\ResetPwd.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Auth\Signup.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\HairProfile\CustomerHair.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\LiveConsultation\LiveSchedule.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\LiveConsultation\_BookConsultation.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\LiveConsultation\_CheckHardwareCustomer.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\LiveConsultation\_JoinCustomerConsultation.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Questionaire\Login.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Questionaire\Questionaire.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Questionaire\Questionnaire.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Questionaire\start.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Footer.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Navigation.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_RightSidebar.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_TopNavbar.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\wwwroot\css\CustomerHair.cshtml.g.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.RazorTargetAssemblyInfo.cache
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.RazorTargetAssemblyInfo.cs
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.Views.pdb
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.csproj.CopyComplete
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.dll
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.pdb
+D:\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.genruntimeconfig.cache
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.deps.json
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.runtimeconfig.json
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.runtimeconfig.dev.json
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.dll
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.pdb
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.Views.dll
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaire.Views.pdb
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaireApiClient.dll
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaireModel.dll
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaireApiClient.pdb
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\bin\Debug\netcoreapp2.2\MyAvanaQuestionaireModel.pdb
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.csprojAssemblyReference.cache
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.csproj.CoreCompileInputs.cache
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.RazorAssemblyInfo.cache
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.RazorAssemblyInfo.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.AssemblyInfoInputs.cache
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.AssemblyInfo.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.TagHelpers.input.cache
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.TagHelpers.output.cache
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.RazorCoreGenerate.cache
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Auth\ForgotPassword.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Auth\Login.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Auth\ResetPwd.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Auth\Signup.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\HairProfile\CustomerHair.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\LiveConsultation\LiveSchedule.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\LiveConsultation\_BookConsultation.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\LiveConsultation\_CheckHardwareCustomer.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\LiveConsultation\_JoinCustomerConsultation.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Questionaire\Login.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Questionaire\Questionaire.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Questionaire\Questionnaire.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Questionaire\start.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Footer.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Navigation.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_RightSidebar.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_TopNavbar.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\Razor\wwwroot\css\CustomerHair.g.cshtml.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.RazorTargetAssemblyInfo.cache
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.RazorTargetAssemblyInfo.cs
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.Views.pdb
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.csproj.CopyComplete
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.dll
+D:\Work2022\My Avana\MyavanaAdminV2\MyAvanaQuestionaire\MyAvanaQuestionaire\obj\Debug\netcoreapp2.2\MyAvanaQuestionaire.pdb

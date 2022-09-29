@@ -1,0 +1,56 @@
+﻿<nav class="navbar-default navbar-static-side" role="navigation">
+    <div class="sidebar-collapse" id="menu">
+        <ul class="nav metismenu" id="side-menu">
+            <li class="nav-header">
+                <div class="dropdown profile-element dashboardlogo">
+                    <img src="~/images/Myavana Logo Black.png" class="pb-2" />
+                    <a data-toggle="dropdown" class="dropdown-toggle text-dark">
+                        <span class="block m-t-xs font-bold">Customer</span>
+                    </a>
+                </div>
+            </li>
+            <li>
+                <a onclick="IfQuestionaireSubmitted()"><i class="fa fa-list"></i> <span class="nav-label" data-i18n="nav.metrics">Questionnaire</span> </a>
+            </li>
+
+            <li>
+                <a href="@Url.Action("CustomerHair", "HairProfile")"><i class="fa fa-list"></i> <span class="nav-label" data-i18n="nav.metrics">Hair Profile</span> </a>
+            </li>
+
+            <li>
+                <a href="@Url.Action("LiveSchedule", "LiveConsultation")"><i class="fa fa-list"></i> <span class="nav-label" data-i18n="nav.metrics">Schedule Live Consultation</span> </a>
+            </li>
+
+        </ul>
+    </div>
+</nav>
+<script type="text/javascript">
+    $('#menuCollapse').click(function () {
+        $('#menuCollapse').toggleClass('showList');
+	});
+
+	function IfQuestionaireSubmitted()
+	{
+        if ("@ViewBag.IsExist" == "True") {
+            window.location.href = "/Questionaire/Questionnaire";
+		}
+		else
+			window.location.href = "/Questionaire/start";
+	}
+
+</script>
+@*<script>
+        function logout() {
+            $.ajax({
+                type: "GET",
+                url: "/Auth/Logout",
+                success: function (response) {
+                    window.location.href = "../Auth/Login";
+                },
+                failure: function (response) {
+                },
+                error: function (response) {
+                }
+            });
+        }
+    </script>*@
